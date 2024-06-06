@@ -26,7 +26,8 @@ h3{
     display:grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     flex-wrap:wrap ;
-    width: 550px;
+    width: 650px;
+    min-width: 550;
     height: 400px;
     gap: 2rem;
     /* border: 2px solid red; */
